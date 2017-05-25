@@ -12,3 +12,14 @@ executer `make`, un exécutable nommé `fillit` devrait compiler directement. Ve
 
 Exemple:
 
+`
+~ ./fillit test/test_8
+
+.AABB..
+AACCB..
+.CC.BDD
+.EE.DD.
+EEFFGG.
+.FFGGHH
+....HH.
+`
