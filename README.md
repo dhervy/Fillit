@@ -7,3 +7,8 @@ L'objectif est de rendre le plus petit "carré" possible (qui peut contenir des 
 executer `make`, un exécutable nommé `fillit` devrait compiler directement. Veuillez soumettre un problème si vous en rencontrez.
 
 ## Usage
+
+`./fillit [file]`
+
+Exemple:
+
