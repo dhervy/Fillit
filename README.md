@@ -6,7 +6,7 @@ L'objectif est d'accoler un ensemble de tetriminos donnés dans une liste, à l'
 
 ## Compiling
 
-executer `make`, un exécutable nommé `fillit` devrait compiler directement. Veuillez soumettre un problème si vous en rencontrez.
+Exécuter `make`, un exécutable nommé `fillit` devrait être compilé directement. Veuillez soumettre un problème si vous en rencontrez.
 
 ## Usage
 
