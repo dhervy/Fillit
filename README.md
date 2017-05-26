@@ -23,4 +23,3 @@ EEFFGG.
 .FFGGHH
 ....HH.
 ```
-kgnto
